@@ -1,13 +1,13 @@
 <h1>Hey you, I'm Utkarsh Gupta</h1>
 
-##### I'm a passionate programmer Specialized in MERN Stack developer.Something that I love about programming is the opportunity to work with different people and departments. As a programmer, I like to challenge myself and learn new tech skills. It is great to be able to come together with other professionals who are striving towards the same goal.If you would like to know more, reach out at vkkhambra786@gmail.com
+##### A passionate programmer Specialized in MERN Stack development.one thing that I love most about programming is the opportunity to work with different people and departments. As a programmer, I like to challenge myself and learn new tech skills. It is great to be able to come together with other professionals who are striving towards the same goal.If you would like to know more, reach out to me at Utkarsh16071998@gmail.com
  
  
 
 ![](https://komarev.com/ghpvc/?username=your-githubvkkhambra786&style=flat-square&label=Profile+Views)
 <img src="https://badges.pufler.dev/Commits/yearly/taherahmed14" />
 
-### :heavy_minus_sign: Interested on my skills?
+### :heavy_minus_sign: My Skills
 <p>
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
@@ -28,25 +28,14 @@
 ### :heavy_minus_sign: Interested on my top projects?
 
 <p>
-<a href="https://github.com/vkkhambra786/Tanshiq_project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tanshiq.com&color=000000&logo=Nordstrom&logoColor=FFFFFF&label=" alt="smallcases.com"/></a>
-<a href="https://github.com/vkkhambra786/Fagbag.com" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=fabbag.com&color=00d09c&logoColor=FFFFFF&label=" alt="Freshly.com" /></a>
-<a href="https://github.com/vkkhambra786/Bemz" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message= Bemz&color=000000&logo=thskincare&logoColor=FFFFFF&label=" alt="Theskincare"/></a>
+ <a href="https://bankist-app-utkarsh-gupta.vercel.app/" target="blank">Bankist App</a>
+<a href="https://github.com/anand7071/snapdeel-clone" target="blank">Snapdeal Clone</a>
+<a href="https://pig-game-murex.vercel.app/" target="blank">Pig Game</a>
 </p>
 
-### :heavy_minus_sign: Where to find me?
-<p> <a href="https://www.linkedin.com/in/vkkhambra786/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@ssk21m"
-SaveCancel
-" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+### :heavy_minus_sign: Contact?
+<p> <a href="www.linkedin.com/in/utkarshgupta16" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-### :heavy_minus_sign: My Github status
-<p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vkkhambra786&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkkhambra786&theme=dracula">
-</p>
-
-
 
 <!--<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />-->
 
