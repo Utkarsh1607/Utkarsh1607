@@ -66,3 +66,5 @@ You can view my work at:-->
 
 <!--
 Utkarsh1697/Utkarsh1607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh1607&show_icons=true&theme=gotham" alt="Utkarsh" />
+
