@@ -24,7 +24,7 @@
 
 
 </p>
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ### :heavy_minus_sign: Interested on my top projects?
 
 <p>
@@ -34,7 +34,10 @@
 </p>
 
 ### :heavy_minus_sign: Contact?
+
 <p> <a href="www.linkedin.com/in/utkarshgupta16" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh1607&show_icons=true&theme=gotham" alt="Utkarsh" />
+  
 </p>
 
 <!--<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />-->
@@ -66,5 +69,5 @@ You can view my work at:-->
 
 <!--
 Utkarsh1697/Utkarsh1607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh1607&show_icons=true&theme=gotham" alt="Utkarsh" />
+
 
