@@ -25,7 +25,7 @@
 
 </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-### :heavy_minus_sign: Interested on my top projects?
+### <h2>:heavy_minus_sign: Interested on my top projects?</h2>
 
 <p>
  <a href="https://bankist-app-utkarsh-gupta.vercel.app/" target="blank">Bankist App</a>
